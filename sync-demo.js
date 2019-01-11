@@ -7,7 +7,7 @@
     sync-demo.js
 */
 
-// Loads in the file system package.
+// Loads in the file system module.
 var fs = require('fs');
 
 // Holds stuff that is read in the file system.

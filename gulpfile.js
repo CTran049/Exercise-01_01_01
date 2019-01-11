@@ -7,10 +7,10 @@
     gulpfile.js
 */
 
-// This does something.
+// Loads in the gulp module. 
 var gulp = require('gulp');
 
-// Anonymous asynchronous function, executes default task.
+// Anonymous, asynchronous function; executes default task.
 gulp.task('default', async function() {
     console.log("Hello from gulp!");
 });
