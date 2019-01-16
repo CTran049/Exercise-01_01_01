@@ -7,4 +7,5 @@
     my-module.js
 */
 
+// If used, then displays the message. I think.
 exports.myText = "Hello from my-module!";
